@@ -13,16 +13,7 @@ body{
   background-color: rgb(231, 233, 235);
 }
 
-.spacer {
-  flex: auto;
-}
 
-mat-toolbar{
-  width: 100%;
-  background-color: rgb(40, 42, 53);
-  color: white;
-}
 
-.center{
-  margin-left: 650px;
-}
+
+
